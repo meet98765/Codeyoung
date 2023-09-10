@@ -1,0 +1,33 @@
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+  }
+  #div{
+    background-color: orange;
+    width: 100%;
+    height: 200px;
+  }
+  #p{
+    float: right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 40px;
+    padding-top:80px;
+  }
+  #p1{
+    float: right;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    padding-top:80px;
+  }
+  #box1{
+    width: 40%;
+    float: left;
+  }
+  #box2{
+    width: 50%;
+  }
+  #div1{
+    background-color: orange;
+    margin-top: 100px;
+    padding: 20px;
+  }
